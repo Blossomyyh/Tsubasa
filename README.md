@@ -1,16 +1,44 @@
-# Example slideshows for Eagle.js
+# TSUBASA
 
-This folder/repo contains the source of a demo Eagle.JS webpage featuring a few slideshows. [Here is the page in action](https://zulko.github.io/eaglejs-demo/#/).
+-----
 
-To get started, download the zip of this repo or clone it with:
-``` bash
-git clone https://github.com/Zulko/eaglejs-demo.git
-```
+#### WEB 期末项目
 
-Install the dependencies (they will only be downloaded in a local folder):
-```bash
-cd eaglejs-demo
-npm install
-```
+1552620  殷宇涵
 
-Then run ```npm run dev``` to start the server, and open your browser at [http://localhost:8080](http://localhost:8080) to see the slideshows.
+---
+
+- #### 项目概述
+
+  - ##### 项目目的
+
+    实现基于vue框架的剧情类游戏
+
+  - ##### 开发环境
+
+    web storm 2017
+
+    vue 2.0  webpack2.7.0   scss   pug
+
+
+- ####   基本需求
+
+  - ##### 游戏主界面
+
+    - 粒子态动画效果
+    - 剧情及人物简介页面
+    - ppt放映效果
+
+  - ##### 游戏界面
+
+    - 四个不同关卡的游戏逻辑
+    - 游戏动画   setTimeout(() => this.syaoranCircum(i), this.INTERVAL* 0.8）
+    - 设置障碍物、加分项、音效、本地存储等
+
+  ​
+
+  ![未命名文件](/Users/yuhanyin/WebstormProjects/tsubasa/static/未命名文件.png)
+
+  ![未命名文件-2](/Users/yuhanyin/WebstormProjects/tsubasa/static/未命名文件-2.png)
+
+![未命名文件-3](/Users/yuhanyin/WebstormProjects/tsubasa/static/未命名文件-3.png)
